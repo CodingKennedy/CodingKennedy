@@ -1,9 +1,21 @@
 
+body{
+	background: url(https://www.motosha.com/wp-content/uploads/2018/03/blue-wood-texture-1024x683.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 
+}
 
 	h1{
-			color:purple;
+			color:#3847FF;
+			border: 5px solid purple;
+		/*	border-color:purple;
+			border-width: 5px;
+			border-style:solid;*/
 		}
+	h4{
+		background: #38FFE4;
+	}
 
 		li{
 			color:orange;
