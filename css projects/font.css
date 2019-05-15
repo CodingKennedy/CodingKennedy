@@ -1,0 +1,28 @@
+/*
+body{
+	font-family: 60px;
+}
+p{
+	font-weight: bold;
+	line-height: 5;
+}
+
+h1{
+	font-size: 100px;
+	text-align:center;
+}
+
+span{
+	font-size:2em;
+}*/
+
+
+p{
+	/*width:200px;*/
+	width:25%;
+	border: 2px solid blue;
+	padding: 10px;
+	padding-left:40px;
+	/*margin:100px;*/
+	margin: 0 auto;
+}

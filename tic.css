@@ -1,0 +1,49 @@
+
+body{
+text-align: center;
+}
+
+td{
+/*	text-align: center;
+  border: 1px solid blue;
+  padding: 50px;
+  margin: auto;
+  text-align: center;*/
+  width:100px;
+  height:100px;
+}
+div{
+
+		text-align: center;
+}
+
+
+
+.first{
+	/*font-size:100px;*/
+	border-bottom: 1px solid blue;
+}
+
+.center{
+	border-right: 1px solid blue;
+	border-left: 1px solid blue;
+	border-bottom: 1px solid blue;
+
+}
+
+.last{
+border-bottom: 1px solid blue;
+}
+
+
+.center2{
+	border-left: 1px solid blue;
+	border-right: 1px solid blue;
+
+}
+
+table{
+	/*text-align:center;*/
+	margin-left:auto; 
+    margin-right:auto;
+}
